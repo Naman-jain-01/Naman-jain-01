@@ -1,3 +1,6 @@
+![My Awesome GIF]()
+
+
 - 👋 Hi, I’m @Naman-jain-01
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
