@@ -1,4 +1,4 @@
-![My Awesome GIF](https://github.com/Naman-jain-01/Travel-App/blob/main/hi%20Naman.mp4)
+![My Awesome GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2duMHF2dmNoNjhvb3hsbWRwOHRnbW13OTRrcnFieWxhaDExODZxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SfTNXEzR2Ow1S98crY/giphy.gif)
 
 
 - 👋 Hi, I’m @Naman-jain-01
